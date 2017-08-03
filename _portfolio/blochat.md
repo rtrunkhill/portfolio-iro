@@ -1,12 +1,13 @@
 ---
 layout: post
 title: BlocChat
-feature-img: "img/messenger-person-clipart-12.jpg"
+feature-img: "img/sample_feature_img_2.png"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030974/bloctalk_1x.png"
 short-description: A messenger application
 
 ---
 __Summary__
+
 BlocChat is a messenger application that works with Google Firebase to provide an easy-to-use chat room.
 
 __Explanation__
