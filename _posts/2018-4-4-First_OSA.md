@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Timebot -  My first Open Source Project
+title: My first Open Source Project
 short-description: A Discord Bot that converts time between zones
 
 ---
