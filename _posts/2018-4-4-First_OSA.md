@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Timebot: My first Open Source Project
-<!-- feature-img: "img/bloc_jams_bg.jpg" -->
-<!-- thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png" -->
+title: Timebot -  My first Open Source Project
 short-description: A Discord Bot that converts time between zones
 
 ---
