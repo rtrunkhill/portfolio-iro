@@ -7,7 +7,7 @@ short-description: Step 1 to lucrative career: completed
 
 __Summary__
 
-I've conducted a ton if interviews, and been interviewed a fair number of times.  But this was the first time being quizzed on technical knowledge with a job on the line.
+I've conducted a ton if interviews, and been interviewed a fair number of times.  But this was the first time being quized on technical knowledge with a job on the line.
 
 __Explanation__
 
@@ -15,7 +15,7 @@ Talk about scary, I've spent the last year becoming a full stack developer and n
 
 __Problems__
 
-I mean, just need to get my mind sorted.  I know what RESTful API's are; HTTP requests using GET, PUT, POST, and DELETE.  Of course I fumbled through that (maybe I got partial credit?).  I couldn't remember that document went before getElementByID() -> document.getElementByID();  It's just been a while since I've played around with HTML and JavaScript as I've been focusing hard on Ruby.  Some things I didn't know, psuedo-class?  I mean, I've used them before but I never would have remembered the name in a million years.
+I mean, just need to get my mind sorted.  I know what RESTful API's are; HTTP requests using GET, PUT, POST, and DELETE.  Of course I fumbled through that (maybe I got partial credit?).  I couldn't remember that document went before getElementByID() -> document.getElementByID();  It's just been a while since I've played around with HTML and JavaScript as I've been focusing hard on Ruby.  Some things I didn't know like what is a psuedo-class? I've used them before but I never would have remembered the name in a million years.
 
 __Solutions__
 
@@ -23,4 +23,4 @@ I need to review my HTML/CSS more intensely before an interview for a front-end 
 
 __Results__
 
-It would be a major surprise if I were selected for that job. None-the-less, I feel like it was a victory and I can't wait to dive back into my work, learn more, and prepare for the next interview!  Thank you to the guys at Eightcig.com for having me over for an interview, it's an experience I'll never forget!
+It would be a major surprise if I were selected for that job. None-the-less, I feel like it was a victory and I can't wait to dive back into my work, learn more, and prepare for the next interview!  Thank you to the guys at [Eightcig.com](https://www.eightcig.com/ ) for having me over for an interview, it's an experience I'll never forget!
